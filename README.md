@@ -1,7 +1,7 @@
-# BrightTV / Sales Case Study - Exploratory Data Analysis & Financial Modeling
+# BrightLearn - Sales Case Study | Exploratory Data Analysis & Financial Modeling
 
 ## Project Overview
-This repository contains the exploratory data analysis (EDA), financial feature engineering, promotional analysis, and business insights for the Sales Case Study. Utilizing **Python, pandas, NumPy, and Plotly** within a **Databricks** environment, this project audits historical sales performance, evaluates pricing strategies, and calculates Price Elasticity of Demand (PED) across distinct promotional periods.
+This repository contains the exploratory data analysis (EDA), financial feature engineering, promotional analysis, and business insights for the BrightLearn Sales Case Study. Utilizing **Python, pandas, NumPy, and Plotly** within a **Databricks** environment, this project audits historical sales performance, evaluates pricing strategies, and calculates Price Elasticity of Demand (PED) across distinct promotional periods.
 
 ---
 
